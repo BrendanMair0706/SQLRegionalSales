@@ -23,7 +23,7 @@ Exploration:
 Execute SQL queries in sql_queries/ to extract and transform data as needed.
 
 Visualization:
-Open Tableau workbooks in tableau_visualizations/ to interact with the visualizations.
+Open Excel/Tableau workbooks in dashboards/ to interact with the visualizations.
 
 Presentation:
 Review the slides in the presentation/ for a summary of the project's objectives, methodology, insights, and recommendations.
